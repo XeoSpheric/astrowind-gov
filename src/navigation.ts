@@ -6,14 +6,14 @@ export const headerData = {
       text: 'Home',
       href: '/',
     },
-    {
-      text: 'About',
-      href: '/about',
-    },
-    {
-      text: 'Contact Us',
-      href: '/contact',
-    },
+    // {
+    //   text: 'About',
+    //   href: '/about',
+    // },
+    // {
+    //   text: 'Contact Us',
+    //   href: '/contact',
+    // },
   ],
   actions: [{ text: 'Learn More', href: '/', target: '_blank' }],
 };
